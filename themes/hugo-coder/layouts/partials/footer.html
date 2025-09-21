@@ -1,0 +1,18 @@
+<footer class="footer">
+  <section class="container">
+
+    Copyright ©
+    {{ if (and .Site.Params.since (lt .Site.Params.since now.Year)) }}
+      {{ .Site.Params.since }} -
+    {{ end }}
+    {{ now.Year }}
+    {{ with .Site.Params.author }} {{ . }} {{ end }}
+    All Rights Reserved ·
+    {{ if (and .Site.Params.license) }}
+      <br>{{ .Site.Params.license | safeHTML }}
+    {{ end }}
+    ·
+    Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> & <a href="https://fontawesome.com/search?o=r&ic=brands" target="_blank">Icon</a>
+
+  </section>
+</footer>
