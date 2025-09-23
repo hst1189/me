@@ -1,4 +1,4 @@
-baseurl = "http://grapehut.xyz/me"
+baseurl = "https://grapehut.dpdns.org/me"
 title = "小饅頭の部屋"
 theme = "hugo-coder"
 
@@ -98,21 +98,21 @@ style = "github-light"
   name = "小饅頭の部落格 🐯"
   pre = "fa-solid fa-blog fa-2x"
   weight = 1
-  url = "https://grapehut.xyz"
+  url = "https://grapehut.dpdns.org/"
   target = "_blank"
 
 [[menu.main]]
   name = "小饅頭の音楽 🐮"
   pre = "fa-solid fa-headphones-simple fa-2x"
   weight = 2
-  url = "https://grapehut.xyz/music"
+  url = "https://grapehut.dpdns.org/music"
   target = "_blank"
 
 [[menu.main]]
   name = "小饅頭のiptv电视 📺"
   pre = "fa-brands fa-chromecast fa-2x"
   weight = 11
-  url = "https://grapehut.xyz/iptv-m3u"
+  url = "https://grapehut.dpdns.org/iptv-m3u"
   target = "_blank"
 
 
