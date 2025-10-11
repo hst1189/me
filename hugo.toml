@@ -102,18 +102,27 @@ style = "github-light"
   target = "_blank"
 
 [[menu.main]]
-  name = "小饅頭の音楽 🐮"
+  name = "小饅頭の音楽 🎸"
   pre = "fa-solid fa-headphones-simple fa-2x"
   weight = 2
   url = "https://grapehut.dpdns.org/music"
   target = "_blank"
 
 [[menu.main]]
+  name = "小饅頭の英語角 🐮"
+  pre = "fa-solid fa-book fa-2x"
+  weight = 3
+  url = "https://grapehut.dpdns.org/NCE"
+  target = "_blank"
+
+[[menu.main]]
   name = "小饅頭のiptv电视 📺"
   pre = "fa-brands fa-chromecast fa-2x"
-  weight = 11
+  weight = 4
   url = "https://grapehut.dpdns.org/iptv-m3u"
   target = "_blank"
+
+
 
 
 [[menu.main]]
@@ -127,56 +136,56 @@ style = "github-light"
 [[menu.main]]
   name = "小饅頭の家庭影院 I（libretv）🤩"
   pre = "fa-solid fa-photo-film fa-2x"
-  weight = 12
+  weight = 11
   url = "https://libretv.grapehut.xyz/"
   target = "_blank"
 
 [[menu.main]]
   name = "小饅頭の家庭影院 II（moontv）🤠"
   pre = "fa-solid fa-film fa-2x"
-  weight = 13
+  weight = 12
   url = "https://moontv.grapehut.xyz/"
   target = "_blank"
   
 [[menu.main]]
   name = "小饅頭の语音克隆tts🎙️"
   pre = "fa-solid fa-microphone fa-2x"
-  weight = 14
+  weight = 13
   url = "https://tts.grapehut.xyz"
   target = "_blank"
 
 [[menu.main]]
   name = "小饅頭の图床 🖼️"
   pre = "fa-solid fa-image fa-2x"
-  weight = 15
+  weight = 14
   url = "https://cloudflare-imgbed-1po.pages.dev"
   target = "_blank"
 
 [[menu.main]]
   name = "小饅頭のAI文生图 🖼️"
   pre = "fa-solid fa-image fa-2x"
-  weight = 16
+  weight = 15
   url = "https://cf-ai-image.hst1189.workers.dev"
   target = "_blank"
 
 [[menu.main]]
   name = "小饅頭のShortURL ♾️"
   pre = "fa-solid fa-chain fa-2x"
-  weight = 17
+  weight = 16
   url = "https://short-url-2vm.pages.dev/"
   target = "_blank"
 
 [[menu.main]]
   name = "小饅頭の收藏夹 I 🔖"
   pre = "fa-solid fa-list fa-2x"
-  weight = 18
+  weight = 17
   url = "https://white-hall-4c0c.hst1189.workers.dev/"
   target = "_blank"
 
 [[menu.main]]
   name = "小饅頭の收藏夹 II 🔖"
   pre = "fa-solid fa-list fa-2x"
-  weight = 19
+  weight = 18
   url = "https://grapehut.xyz/webstack"
   target = "_blank"
 
