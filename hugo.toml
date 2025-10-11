@@ -137,21 +137,21 @@ style = "github-light"
   name = "小饅頭の家庭影院 I（libretv）🤩"
   pre = "fa-solid fa-photo-film fa-2x"
   weight = 11
-  url = "https://libretv.grapehut.xyz/"
+  url = "https://libretv-1oi.pages.dev"
   target = "_blank"
 
 [[menu.main]]
   name = "小饅頭の家庭影院 II（moontv）🤠"
   pre = "fa-solid fa-film fa-2x"
   weight = 12
-  url = "https://moontv.grapehut.xyz/"
+  url = "https://moontv-ebs.pages.dev"
   target = "_blank"
   
 [[menu.main]]
-  name = "小饅頭の语音克隆tts🎙️"
+  name = "小饅頭の语音克隆（libretts）🎙️"
   pre = "fa-solid fa-microphone fa-2x"
   weight = 13
-  url = "https://tts.grapehut.xyz"
+  url = "https://libretts-4l5.pages.dev"
   target = "_blank"
 
 [[menu.main]]
@@ -186,7 +186,7 @@ style = "github-light"
   name = "小饅頭の收藏夹 II 🔖"
   pre = "fa-solid fa-list fa-2x"
   weight = 18
-  url = "https://grapehut.xyz/webstack"
+  url = "https://grapehut.dpdns.org/webstack"
   target = "_blank"
 
 
@@ -208,14 +208,14 @@ style = "github-light"
   name = "小饅頭の萌娘Live2D 🐱"
   pre = "fa-solid fa-venus-mars fa-2x"
   weight = 21
-  url = "https://grapehut.xyz/live2d-widget"
+  url = "https://grapehut.dpdns.org/live2d-widget"
   target = "_blank"
 
 [[menu.main]]
   name = "小饅頭の萌娘Live2D-Cubism3 🐶"
   pre = "fa-solid fa-venus-double fa-2x"
   weight = 22
-  url = "https://grapehut.xyz/live2d-cubism3"
+  url = "https://grapehut.dpdns.org/live2d-cubism3"
   target = "_blank"
 
 
@@ -239,30 +239,36 @@ style = "github-light"
   name = "小饅頭の字体甄选 (hugo) 🐭"
   pre = "fa-solid fa-feather fa-2x"
   weight = 32
-  url = "https://grapehut.xyz/myfont"
+  url = "https://grapehut.dpdns.org/myfont"
   target = "_blank"
 
 [[menu.main]]
   name = "mirai-tech (hugo) 👽"
   pre = "fa-solid fa-tent fa-2x"
   weight = 33
-  url = "https://grapehut.xyz/mirai-tech"
+  url = "https://grapehut.dpdns.org/mirai-tech"
   target = "_blank"
   
 [[menu.main]]
   name = "blind-date (hugo) 💘"
   pre = "fa-solid fa-heart fa-2x"
   weight = 34
-  url = "https://grapehut.xyz/blinddate"
+  url = "https://grapehut.dpdns.org/blinddate"
   target = "_blank"
 
 [[menu.main]]
   name = "rentacar-twins (hugo) 🚗"
   pre = "fa-solid fa-car fa-2x"
   weight = 35
-  url = "https://grapehut.xyz/rentacar-twins"
+  url = "https://grapehut.dpdns.org/rentacar-twins"
   target = "_blank"
-
+  
+[[menu.main]]
+  name = "play-with-gmeek 🚀"
+  pre = "fa-solid fa-rocket fa-2x"
+  weight = 36
+  url = "https://grapehut.dpdns.org/playwithgmeek"
+  target = "_blank"
 
 
 
