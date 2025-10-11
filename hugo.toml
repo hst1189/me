@@ -246,7 +246,7 @@ style = "github-light"
   name = "mirai-tech (hugo) 👽"
   pre = "fa-solid fa-tent fa-2x"
   weight = 33
-  url = "https://grapehut.dpdns.org/mirai-tech"
+  url = "https://grapehut.dpdns.org/miraitech"
   target = "_blank"
   
 [[menu.main]]
