@@ -293,6 +293,15 @@ style = "github-light"
   url = "http://192.168.0.200:8000/"
   target = "_blank"
 
+[[menu.main]]
+  name = "小饅頭の1Panel 🦞"
+  pre = "fa-solid fa-panel fa-2x"
+  weight = 43
+  url = "http://192.168.0.200:40729/c363029430"
+  target = "_blank"
+
+  
+
 
 
 
