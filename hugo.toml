@@ -122,7 +122,12 @@ style = "github-light"
   url = "https://grapehut.dpdns.org/iptv-m3u"
   target = "_blank"
 
-
+[[menu.main]]
+  name = "小饅頭のFC游戏机 🎮"
+  pre = "fa-brands fa-gamepad fa-2x"
+  weight = 5
+  url = "https://rs00804457.oners.jp"
+  target = "_blank"
 
 
 [[menu.main]]
