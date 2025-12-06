@@ -124,7 +124,7 @@ style = "github-light"
 
 [[menu.main]]
   name = "小饅頭のFC游戏机 🎮"
-  pre = "fa-brands fa-gamepad fa-2x"
+  pre = "fa-solid fa-gamepad fa-2x"
   weight = 5
   url = "https://rs00804457.oners.jp"
   target = "_blank"
