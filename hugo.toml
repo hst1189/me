@@ -354,7 +354,7 @@ style = "github-light"
 
 [[menu.main]]
   name = "小饅頭のVPN节点 🥷"
-  pre = "fa-solid fa-globe fa-2x"
+  pre = "fa-brands fa-expeditedssl fa-2x"
   weight = 93
-  url = "https://cf996.hst1189.workers.dev/8cda8d90-9c66-4f59-8f98-d433d6238a8c"
+  url = "https://cf996.miraitech-chiyoda.com/"
   target = "_blank"
