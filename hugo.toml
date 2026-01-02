@@ -358,3 +358,11 @@ style = "github-light"
   weight = 93
   url = "https://cf996.miraitech-chiyoda.com/"
   target = "_blank"
+
+[[menu.main]]
+  name = "小饅頭のVPN节点 🥷"
+  pre = "fa-brands fa-expeditedssl fa-2x"
+  weight = 94
+  url = "https://hst1189-myspace.hf.space/sub"
+  target = "_blank"
+  
