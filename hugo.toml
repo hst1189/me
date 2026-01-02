@@ -296,7 +296,7 @@ style = "github-light"
   name = "小饅頭のn8n 👺"
   pre = "fa-brands fa-hubspot fa-2x"
   weight = 41
-  url = "http://192.168.0.200:5678/"
+  url = "https://hst1189-n8n-free.hf.space/"
   target = "_blank"
 
 [[menu.main]]
