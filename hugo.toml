@@ -313,7 +313,13 @@ style = "github-light"
   url = "http://192.168.0.200:40729/c363029430"
   target = "_blank"
 
-  
+[[menu.main]]
+  name = "小饅頭の网站监控 😎"
+  pre = "fa-solid fa-user-secret fa-2x"
+  weight = 44
+  url = "https://klrbsexb.ap-northeast-1.clawcloudrun.com/status/1"
+  target = "_blank"
+
 
 
 
@@ -338,31 +344,25 @@ style = "github-light"
   url = "#"
   target = "_blank"
   
-[[menu.main]]
-  name = "小饅頭の网站监控 😎"
-  pre = "fa-solid fa-user-secret fa-2x"
-  weight = 91
-  url = "https://klrbsexb.ap-northeast-1.clawcloudrun.com/status/1"
-  target = "_blank"
 
 [[menu.main]]
-  name = "小饅頭のBPB Panel🦄"
+  name = "小饅頭のVPN节点I 🥷"
   pre = "fa-brands fa-expeditedssl fa-2x"
-  weight = 92
+  weight = 91
   url = "https://x10host999.pages.dev/panel"
   target = "_blank"
 
 [[menu.main]]
-  name = "小饅頭のVPN节点 🥷"
+  name = "小饅頭のVPN节点II 🥷"
   pre = "fa-brands fa-expeditedssl fa-2x"
-  weight = 93
+  weight = 92
   url = "https://cf996.miraitech-chiyoda.com/"
   target = "_blank"
 
 [[menu.main]]
-  name = "小饅頭のVPN节点 🥷"
+  name = "小饅頭のVPN节点III 🥷"
   pre = "fa-brands fa-expeditedssl fa-2x"
-  weight = 94
+  weight = 93
   url = "https://hst1189-myspace.hf.space/sub"
   target = "_blank"
-  
+
