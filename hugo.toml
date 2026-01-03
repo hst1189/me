@@ -346,23 +346,30 @@ style = "github-light"
   
 
 [[menu.main]]
-  name = "小饅頭のVPN节点I 🥷"
+  name = "小饅頭のVPN节点I（BPB）🥷"
   pre = "fa-brands fa-expeditedssl fa-2x"
   weight = 91
   url = "https://x10host999.pages.dev/panel"
   target = "_blank"
 
 [[menu.main]]
-  name = "小饅頭のVPN节点II 🥷"
+  name = "小饅頭のVPN节点II（cf-worker）🥷"
   pre = "fa-brands fa-expeditedssl fa-2x"
   weight = 92
   url = "https://cf996.miraitech-chiyoda.com/"
   target = "_blank"
 
 [[menu.main]]
-  name = "小饅頭のVPN节点III 🥷"
+  name = "小饅頭のVPN节点III（hugface）🥷"
   pre = "fa-brands fa-expeditedssl fa-2x"
   weight = 93
   url = "https://hst1189-myspace.hf.space/sub"
+  target = "_blank"
+
+[[menu.main]]
+  name = "小饅頭のVPN节点IV（alwaysdata）🥷"
+  pre = "fa-brands fa-expeditedssl fa-2x"
+  weight = 94
+  url = "https://grape.alwaysdata.net/sub"
   target = "_blank"
 
