@@ -363,13 +363,13 @@ style = "github-light"
   name = "小饅頭のVPN节点III（hugface）🥷"
   pre = "fa-brands fa-expeditedssl fa-2x"
   weight = 93
-  url = "https://hst1189-myspace.hf.space/sub"
+  url = "https://hst1189-myspace.hf.space/"
   target = "_blank"
 
 [[menu.main]]
   name = "小饅頭のVPN节点IV（alwaysdata）🥷"
   pre = "fa-brands fa-expeditedssl fa-2x"
   weight = 94
-  url = "https://grape.alwaysdata.net/sub"
+  url = "https://grape.alwaysdata.net/"
   target = "_blank"
 
