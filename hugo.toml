@@ -151,54 +151,39 @@ style = "github-light"
   weight = 12
   url = "https://moontv-ebs.pages.dev"
   target = "_blank"
+
+[[menu.main]]
+  name = "小饅頭の家庭影院 III（KVideo）🤠"
+  pre = "fa-solid fa-film fa-2x"
+  weight = 13
+  url = "  https://kvideo-e5w.pages.dev"
+  target = "_blank"
   
 [[menu.main]]
   name = "小饅頭のtts I（libretts）🎙️"
   pre = "fa-solid fa-microphone fa-2x"
-  weight = 13
+  weight = 14
   url = "https://libretts-4l5.pages.dev"
   target = "_blank"
   
 [[menu.main]]
-  name = "小饅頭のtts II（tts-voice-magic）🎙️"
+  name = "小饅頭のtts II（tts-voicecraft）🎙️"
   pre = "fa-solid fa-microphone fa-2x"
-  weight = 14
-  url = "https://tts-voice-magic.hst1189.workers.dev/"
+  weight = 15
+  url = "https://tts-voicecraft.hst1189.workers.dev"
   target = "_blank"
   
-
 [[menu.main]]
   name = "小饅頭の图床 🖼️"
   pre = "fa-solid fa-image fa-2x"
-  weight = 15
+  weight = 16
   url = "https://cloudflare-imgbed-1po.pages.dev"
   target = "_blank"
 
 [[menu.main]]
-  name = "小饅頭のAI文生图 🖼️"
-  pre = "fa-solid fa-image fa-2x"
-  weight = 16
-  url = "https://cf-ai-image.hst1189.workers.dev"
-  target = "_blank"
-
-[[menu.main]]
-  name = "小饅頭のShortURL ♾️"
-  pre = "fa-solid fa-chain fa-2x"
+  name = "小饅頭の收藏夹 🔖"
+  pre = "fa-solid fa-list fa-2x"
   weight = 17
-  url = "https://short-url-2vm.pages.dev/"
-  target = "_blank"
-
-[[menu.main]]
-  name = "小饅頭の收藏夹 I 🔖"
-  pre = "fa-solid fa-list fa-2x"
-  weight = 18
-  url = "https://web-nav.hst1189.workers.dev/"
-  target = "_blank"
-
-[[menu.main]]
-  name = "小饅頭の收藏夹 II 🔖"
-  pre = "fa-solid fa-list fa-2x"
-  weight = 19
   url = "https://grapehut.dpdns.org/webstack"
   target = "_blank"
 
