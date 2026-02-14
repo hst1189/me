@@ -156,7 +156,7 @@ style = "github-light"
   name = "小饅頭の家庭影院 III（KVideo）🤠"
   pre = "fa-solid fa-film fa-2x"
   weight = 13
-  url = "  https://kvideo-e5w.pages.dev"
+  url = "https://kvideo-e5w.pages.dev"
   target = "_blank"
   
 [[menu.main]]
